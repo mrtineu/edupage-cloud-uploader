@@ -1,11 +1,9 @@
 
-from unicodedata import name
 from edupage_api import Edupage
 import json
 import os
 import datetime
 from zipfile import ZipFile
-import pandas as pd
 import random
 from random import seed
 from os import listdir
